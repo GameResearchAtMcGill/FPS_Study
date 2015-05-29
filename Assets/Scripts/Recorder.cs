@@ -7,7 +7,7 @@ public class Recorder : MonoBehaviour
 	public List<Vector3> posBeen = new List<Vector3>(); 
 	public List<Vector3> lookAt = new List<Vector3>(); 
 	// Use this for initialization
-	public float timeRecording = 0.1f;
+	public float timeRecording = 0.5f;
 	private float timeStart; 
 
 	void Start () 

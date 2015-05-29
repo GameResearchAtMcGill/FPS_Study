@@ -262,7 +262,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Start exploring
+  m_Text: Replay
 --- !u!222 &281050000
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1261,7 +1261,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Welcome
+  m_Text: Thank you
 --- !u!222 &2088214318
 CanvasRenderer:
   m_ObjectHideFlags: 0

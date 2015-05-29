@@ -15,6 +15,6 @@ public class Load_level : MonoBehaviour {
 
 	public void StartGame()
 	{
-		Application.LoadLevel("dev1");
+		Application.LoadLevel("dev2");
 	}
 }
