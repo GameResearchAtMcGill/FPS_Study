@@ -15,6 +15,7 @@ public class Load_level : MonoBehaviour {
 
 	public void StartGame()
 	{
-		Application.LoadLevel("dev2");
+		int i = Random.Range(1,4);
+		Application.LoadLevel("level"+i.ToString());
 	}
 }

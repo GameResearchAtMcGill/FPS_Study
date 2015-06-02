@@ -105,7 +105,7 @@ def readDataToPaths(name):
 
 #This code will read and plot the heatmaps
 
-f = "Laurent.txt"
+f = "clark.txt"
 a = []
 a = readDataToPaths(f)               
 
